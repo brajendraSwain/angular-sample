@@ -12,6 +12,9 @@ git clone repo
 # Go to root directory of the project.
 cd angular-sample
 
+# Then install node dependencies
+npm install
+
 ```
 
 ## Running
